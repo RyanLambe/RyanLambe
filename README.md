@@ -6,4 +6,4 @@ I have recently been working on some low-level projects, such as [RL-OS](https:/
 
 ### My current project is [RL-OS](https://github.com/RyanLambe/RL-OS) so be sure to check it out!
 
-I also have a portfolio website you can check out: [rlambe.dev](https://rlambe.dev/)
+### I also have a portfolio website you can check out: [rlambe.dev](https://rlambe.dev/)
