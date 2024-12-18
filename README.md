@@ -1,9 +1,15 @@
+<div id="header" align="center">
+  <h1>Hello, I am Ryan Lambe!</h1>
+</div>
 
-# Hello, I am Ryan Lambe!
+### I am currently working on [Particles](https://github.com/RyanLambe/Particles) and [RL Engine V2](https://github.com/RyanLambe/RL-Engine) so be sure to check them out!
 
-I'm a Computer Science student at Western University. 
-I have recently been working on some low-level projects, such as [RL OS](https://github.com/RyanLambe/RL-OS), [Zig2D](https://github.com/RyanLambe/Zig2D), and [RL Engine](https://github.com/RyanLambe/RL-Engine).
+Highly proficient and detail-oriented Computer Science graduate (April 2025), seeking meaningful opportunities to collaborate on projects that push myself to learn and develop my skills. 
 
-### I am currently revisiting [RL Engine](https://github.com/RyanLambe/RL-Engine) so be sure to check it out!
+I have been mainly focused on low-level programming and have developed several personal projects, such as Game Engines and an Operating System while prioritizing Data-Oriented Design.
 
-#### I also have a portfolio website you can check out: [rlambe.dev](https://rlambe.dev/)
+
+<div id="header" align="center">
+  <img src="https://rlambe.dev/images/RL%20Logo.png" width="250"/>
+</div>
+
